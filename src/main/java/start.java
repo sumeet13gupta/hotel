@@ -267,7 +267,6 @@ public class start extends javax.swing.JFrame {
             System.err.println("IOException: " + ioe.getMessage());
         }
         // use the FileWriter
-        EXIT_ON_CLOSE();
 
     }// GEN-LAST:event_enterActionPerformed
 
